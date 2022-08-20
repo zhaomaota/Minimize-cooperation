@@ -6,7 +6,7 @@
 </script>
 
 <template>
-    <div>我是头像</div>
+    <div class="good">我是头像</div>
         <n-avatar
       round
       :size="48"

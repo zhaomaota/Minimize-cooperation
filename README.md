@@ -17,3 +17,14 @@ Vue-Router4：路由
 
 # 部署流程
 打包后的dist文件部署到服务器即可
+
+# 工程结构
+src 资源文件夹
+    components 组件
+    APP.vue 所有组件的父组件
+    main.ts 入口文件
+    style.css 全局样式
+index.html 入口html
+package-lock.json 依赖版本
+package.json 命令和依赖
+vite.config.ts 项目配置
