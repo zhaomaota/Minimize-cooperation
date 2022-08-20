@@ -10,6 +10,10 @@ declare module '@vue/runtime-core' {
     Avatar: typeof import('./src/components/HeaderPage/Avatar.vue')['default']
     HeaderPage: typeof import('./src/components/HeaderPage/HeaderPage.vue')['default']
     NAvatar: typeof import('naive-ui')['NAvatar']
+    NIcon: typeof import('naive-ui')['NIcon']
+    NMenu: typeof import('naive-ui')['NMenu']
     Profile: typeof import('./src/components/HeaderPage/Profile.vue')['default']
+    RouterLink: typeof import('vue-router')['RouterLink']
+    RouterView: typeof import('vue-router')['RouterView']
   }
 }

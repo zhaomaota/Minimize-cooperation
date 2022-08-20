@@ -21,6 +21,7 @@ Vue-Router4：路由
 # 工程结构
 src 资源文件夹
     components 组件
+    pages 页面
     APP.vue 所有组件的父组件
     main.ts 入口文件
     style.css 全局样式
