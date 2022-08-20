@@ -12,6 +12,7 @@ declare module '@vue/runtime-core' {
     NAvatar: typeof import('naive-ui')['NAvatar']
     NIcon: typeof import('naive-ui')['NIcon']
     NMenu: typeof import('naive-ui')['NMenu']
+    NSwitch: typeof import('naive-ui')['NSwitch']
     Profile: typeof import('./src/components/HeaderPage/Profile.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
