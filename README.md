@@ -9,3 +9,10 @@ NaiveUI：UI组件库
 Vite：构建工具
 Vue-Router4：路由
 
+# 运行步骤
+安装依赖： npm install
+运行： npm run dev
+打包： npm run build
+
+# 部署流程
+打包后的dist文件部署到服务器即可
