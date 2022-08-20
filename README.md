@@ -6,6 +6,7 @@ Vue3：前端框架
 TypeScript：类型强化
 Pinia：状态管理插件
 NaiveUI：UI组件库
+Xicons：图标库
 Vite：构建工具
 Vue-Router4：路由
 
