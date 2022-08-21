@@ -10,6 +10,7 @@ declare module '@vue/runtime-core' {
     Avatar: typeof import('./src/components/HeaderPage/Avatar.vue')['default']
     HeaderPage: typeof import('./src/components/HeaderPage/HeaderPage.vue')['default']
     NAvatar: typeof import('naive-ui')['NAvatar']
+    NDataTable: typeof import('naive-ui')['NDataTable']
     NIcon: typeof import('naive-ui')['NIcon']
     NMenu: typeof import('naive-ui')['NMenu']
     NSwitch: typeof import('naive-ui')['NSwitch']
