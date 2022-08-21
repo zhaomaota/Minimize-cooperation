@@ -9,8 +9,12 @@ declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     HeaderPage: typeof import('./src/components/HeaderPage/HeaderPage.vue')['default']
     NAvatar: typeof import('naive-ui')['NAvatar']
+    NCard: typeof import('naive-ui')['NCard']
+    NDataTable: typeof import('naive-ui')['NDataTable']
     NIcon: typeof import('naive-ui')['NIcon']
     NMenu: typeof import('naive-ui')['NMenu']
+    NModal: typeof import('naive-ui')['NModal']
+    NSwitch: typeof import('naive-ui')['NSwitch']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
   }
